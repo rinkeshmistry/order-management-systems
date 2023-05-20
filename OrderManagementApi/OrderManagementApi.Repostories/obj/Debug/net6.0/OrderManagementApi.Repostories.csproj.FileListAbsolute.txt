@@ -1,0 +1,15 @@
+E:\Sample\order-management-systems\OrderManagementApi\OrderManagementApi.Repostories\bin\Debug\net6.0\OrderManagementApi.Repostories.deps.json
+E:\Sample\order-management-systems\OrderManagementApi\OrderManagementApi.Repostories\bin\Debug\net6.0\OrderManagementApi.Repostories.dll
+E:\Sample\order-management-systems\OrderManagementApi\OrderManagementApi.Repostories\bin\Debug\net6.0\OrderManagementApi.Repostories.pdb
+E:\Sample\order-management-systems\OrderManagementApi\OrderManagementApi.Repostories\obj\Debug\net6.0\OrderManagementApi.Repostories.csproj.AssemblyReference.cache
+E:\Sample\order-management-systems\OrderManagementApi\OrderManagementApi.Repostories\obj\Debug\net6.0\OrderManagementApi.Repostories.GeneratedMSBuildEditorConfig.editorconfig
+E:\Sample\order-management-systems\OrderManagementApi\OrderManagementApi.Repostories\obj\Debug\net6.0\OrderManagementApi.Repostories.AssemblyInfoInputs.cache
+E:\Sample\order-management-systems\OrderManagementApi\OrderManagementApi.Repostories\obj\Debug\net6.0\OrderManagementApi.Repostories.AssemblyInfo.cs
+E:\Sample\order-management-systems\OrderManagementApi\OrderManagementApi.Repostories\obj\Debug\net6.0\OrderManagementApi.Repostories.csproj.CoreCompileInputs.cache
+E:\Sample\order-management-systems\OrderManagementApi\OrderManagementApi.Repostories\obj\Debug\net6.0\OrderManagementApi.Repostories.dll
+E:\Sample\order-management-systems\OrderManagementApi\OrderManagementApi.Repostories\obj\Debug\net6.0\refint\OrderManagementApi.Repostories.dll
+E:\Sample\order-management-systems\OrderManagementApi\OrderManagementApi.Repostories\obj\Debug\net6.0\OrderManagementApi.Repostories.pdb
+E:\Sample\order-management-systems\OrderManagementApi\OrderManagementApi.Repostories\obj\Debug\net6.0\ref\OrderManagementApi.Repostories.dll
+E:\Sample\order-management-systems\OrderManagementApi\OrderManagementApi.Repostories\bin\Debug\net6.0\OrderManagementApi.Entities.dll
+E:\Sample\order-management-systems\OrderManagementApi\OrderManagementApi.Repostories\bin\Debug\net6.0\OrderManagementApi.Entities.pdb
+E:\Sample\order-management-systems\OrderManagementApi\OrderManagementApi.Repostories\obj\Debug\net6.0\OrderManagementApi.Repostories.csproj.CopyComplete

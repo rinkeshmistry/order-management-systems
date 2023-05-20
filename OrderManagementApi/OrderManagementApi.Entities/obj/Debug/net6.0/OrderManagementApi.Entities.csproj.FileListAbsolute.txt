@@ -1,0 +1,14 @@
+E:\Sample\order-management-systems\OrderManagementApi\OrderManagementApi.Entities\bin\Debug\net6.0\OrderManagementApi.Entities.deps.json
+E:\Sample\order-management-systems\OrderManagementApi\OrderManagementApi.Entities\bin\Debug\net6.0\OrderManagementApi.Entities.runtimeconfig.json
+E:\Sample\order-management-systems\OrderManagementApi\OrderManagementApi.Entities\bin\Debug\net6.0\OrderManagementApi.Entities.dll
+E:\Sample\order-management-systems\OrderManagementApi\OrderManagementApi.Entities\bin\Debug\net6.0\OrderManagementApi.Entities.pdb
+E:\Sample\order-management-systems\OrderManagementApi\OrderManagementApi.Entities\obj\Debug\net6.0\OrderManagementApi.Entities.csproj.AssemblyReference.cache
+E:\Sample\order-management-systems\OrderManagementApi\OrderManagementApi.Entities\obj\Debug\net6.0\OrderManagementApi.Entities.GeneratedMSBuildEditorConfig.editorconfig
+E:\Sample\order-management-systems\OrderManagementApi\OrderManagementApi.Entities\obj\Debug\net6.0\OrderManagementApi.Entities.AssemblyInfoInputs.cache
+E:\Sample\order-management-systems\OrderManagementApi\OrderManagementApi.Entities\obj\Debug\net6.0\OrderManagementApi.Entities.AssemblyInfo.cs
+E:\Sample\order-management-systems\OrderManagementApi\OrderManagementApi.Entities\obj\Debug\net6.0\OrderManagementApi.Entities.csproj.CoreCompileInputs.cache
+E:\Sample\order-management-systems\OrderManagementApi\OrderManagementApi.Entities\obj\Debug\net6.0\OrderManagementApi.Entities.dll
+E:\Sample\order-management-systems\OrderManagementApi\OrderManagementApi.Entities\obj\Debug\net6.0\refint\OrderManagementApi.Entities.dll
+E:\Sample\order-management-systems\OrderManagementApi\OrderManagementApi.Entities\obj\Debug\net6.0\OrderManagementApi.Entities.pdb
+E:\Sample\order-management-systems\OrderManagementApi\OrderManagementApi.Entities\obj\Debug\net6.0\OrderManagementApi.Entities.genruntimeconfig.cache
+E:\Sample\order-management-systems\OrderManagementApi\OrderManagementApi.Entities\obj\Debug\net6.0\ref\OrderManagementApi.Entities.dll

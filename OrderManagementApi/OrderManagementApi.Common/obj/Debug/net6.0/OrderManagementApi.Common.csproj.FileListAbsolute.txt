@@ -1,0 +1,17 @@
+E:\Sample\order-management-systems\OrderManagementApi\OrderManagementApi.Common\bin\Debug\net6.0\OrderManagementApi.Common.deps.json
+E:\Sample\order-management-systems\OrderManagementApi\OrderManagementApi.Common\bin\Debug\net6.0\OrderManagementApi.Common.dll
+E:\Sample\order-management-systems\OrderManagementApi\OrderManagementApi.Common\bin\Debug\net6.0\OrderManagementApi.Common.pdb
+E:\Sample\order-management-systems\OrderManagementApi\OrderManagementApi.Common\obj\Debug\net6.0\OrderManagementApi.Common.csproj.AssemblyReference.cache
+E:\Sample\order-management-systems\OrderManagementApi\OrderManagementApi.Common\obj\Debug\net6.0\OrderManagementApi.Common.GeneratedMSBuildEditorConfig.editorconfig
+E:\Sample\order-management-systems\OrderManagementApi\OrderManagementApi.Common\obj\Debug\net6.0\OrderManagementApi.Common.AssemblyInfoInputs.cache
+E:\Sample\order-management-systems\OrderManagementApi\OrderManagementApi.Common\obj\Debug\net6.0\OrderManagementApi.Common.AssemblyInfo.cs
+E:\Sample\order-management-systems\OrderManagementApi\OrderManagementApi.Common\obj\Debug\net6.0\OrderManagementApi.Common.csproj.CoreCompileInputs.cache
+E:\Sample\order-management-systems\OrderManagementApi\OrderManagementApi.Common\obj\Debug\net6.0\OrderManagementApi.Common.dll
+E:\Sample\order-management-systems\OrderManagementApi\OrderManagementApi.Common\obj\Debug\net6.0\refint\OrderManagementApi.Common.dll
+E:\Sample\order-management-systems\OrderManagementApi\OrderManagementApi.Common\obj\Debug\net6.0\OrderManagementApi.Common.pdb
+E:\Sample\order-management-systems\OrderManagementApi\OrderManagementApi.Common\obj\Debug\net6.0\ref\OrderManagementApi.Common.dll
+E:\Sample\order-management-systems\OrderManagementApi\OrderManagementApi.Common\bin\Debug\net6.0\OrderManagementApi.Entities.dll
+E:\Sample\order-management-systems\OrderManagementApi\OrderManagementApi.Common\bin\Debug\net6.0\OrderManagementApi.Repostories.dll
+E:\Sample\order-management-systems\OrderManagementApi\OrderManagementApi.Common\bin\Debug\net6.0\OrderManagementApi.Repostories.pdb
+E:\Sample\order-management-systems\OrderManagementApi\OrderManagementApi.Common\bin\Debug\net6.0\OrderManagementApi.Entities.pdb
+E:\Sample\order-management-systems\OrderManagementApi\OrderManagementApi.Common\obj\Debug\net6.0\OrderManagementApi.Common.csproj.CopyComplete

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "mzDktrdVvrGccSsI5znZrLXMmQyayFB2zJab9gKnAYt2ixaRKg2ck5boxgPwb1j+11oXbOwJwhCDKmJUaRZmRQ==",
+  "success": true,
+  "projectFilePath": "E:\\Sample\\order-management-systems\\OrderManagementApi\\OrderManagementApi.Models\\OrderManagementApi.Models.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rinke\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.16\\microsoft.windowsdesktop.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\rinke\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.16\\microsoft.netcore.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\rinke\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.16\\microsoft.aspnetcore.app.ref.6.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}
